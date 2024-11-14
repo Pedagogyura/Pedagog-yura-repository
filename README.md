@@ -1,7 +1,10 @@
 # Pedagog-yura-repository
-Enviroment setup
+##Enviroment setup
 - python -m venv venv
 - .\venv\Scripts\activate
 
-- Linter
+##- Linter
 - Ctrl-Alt-l
+
+## shortcuts
+- Ctrl-D
