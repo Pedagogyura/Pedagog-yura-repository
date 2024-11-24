@@ -1,1 +1,1 @@
-HOMEWORK_OWNER = "Юрій Дерішов {}."
+HOMEWORK_OWNER = "current author {name}."
